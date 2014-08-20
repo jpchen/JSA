@@ -31,7 +31,16 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../../pics/cherryblossom.jpg) no-repeat center center;
+    background: url(../pics/cherryblossom.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.board-header {
+    padding-top: 30px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 30px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../pics/board.jpg) no-repeat center center;
     background-size: cover;
 }
 
